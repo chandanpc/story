@@ -1,1 +1,5 @@
 This is chapter1
+ok,editing in vim
+learning VIM editing
+i love vim editor
+its good
